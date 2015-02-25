@@ -28,3 +28,6 @@ Route::get('/hello2','HelloController@hello');
 
 //Rest Routing
 Route::resource('photo','PhotoController');
+
+//Charging Routing
+Route::resource('charge','ChargingController');
