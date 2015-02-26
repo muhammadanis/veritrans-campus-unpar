@@ -2,6 +2,8 @@
 
 echo "<a href='session-test.php'>Session Test</a>";
 
+echo "<br/><h1>Hello</h1>";
+
 echo "<br/>---TEST ECHO---<br>";
 $txt1 = "Learn PHP";
 $txt2 = "Hello World";
